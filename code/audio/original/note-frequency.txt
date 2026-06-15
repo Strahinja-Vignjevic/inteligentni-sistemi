@@ -1,0 +1,15 @@
+RECORDED NOTE FREQUENCIES
+
+C - 313Hz
+C# - 330Hz
+D - 355Hz
+D# - 375Hz
+E - 397Hz
+F - 414Hz
+F# - 440Hz
+G - 466Hz
+G# - 489Hz
+A - 521 - 527Hz
+A# - 551 - 558Hz
+B - 585 - 592Hz
+C2 - 623Hz
